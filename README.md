@@ -4,7 +4,8 @@ An interactive single-page web experience built using HTML, CSS, and JavaScript,
 
 This project demonstrates how thoughtful UI/UX design, lightweight client-side logic, and a professional hosting workflow can be combined into a polished, production-ready static website.
 
-## Live Demo: https://valentine-c1b1d.web.app 
+## Live Demo:<a href="https://valentine-c1b1d.web.app" target="_blank" rel="noopener noreferrer"> https://valentine-c1b1d.web.app
+</a>
 
 ## Overview
 
