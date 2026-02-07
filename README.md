@@ -54,12 +54,15 @@ Deployment workflow:
 This approach enables fast iteration, consistent deployments, and clean separation between development and hosting.
 
 ## Repository Structure
+
+```text
 .
-├── index.html Main application file
-├── firebase.json Firebase Hosting configuration
-├── .firebaserc Firebase project mapping
-├── 404.html Custom error page
-├── .gitignore Ignored local cache and log files
+├── index.html        Main application file
+├── firebase.json     Firebase Hosting configuration
+├── .firebaserc       Firebase project mapping
+├── 404.html          Custom error page
+├── .gitignore        Ignored local cache and log files
+
 
 
 ## What This Project Demonstrates
